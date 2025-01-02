@@ -6,6 +6,7 @@ Welcome to the Python Study Repository! This repository contains various Python 
 
 - **Basic Python Scripts**: Simple Python programs for basic tasks such as calculating the area of a circle, converting temperatures, etc.
 - **LeetCode Problems**: Solutions to various LeetCode problems to help you practice and improve your problem-solving skills.
+- **Other**
 
 ## Getting Started
 
